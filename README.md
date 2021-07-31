@@ -114,4 +114,4 @@ Any discussions and suggestions are welcome!
 
 
 ## Acknowledgement
-This work and code is inspired by [Robust Change Captioning](https://github.com/Seth-Park/RobustChangeCaptioning). Thanks for their solid work!
+This work and code are inspired by [Robust Change Captioning](https://github.com/Seth-Park/RobustChangeCaptioning). Thanks for their solid work!
