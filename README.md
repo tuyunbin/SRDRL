@@ -111,3 +111,7 @@ The results are saved in `./experiments/dynamic_SRDRL/test_output/captions/eval_
 My email is tuyunbin1995@foxmail.com
 
 Any discussions and suggestions are welcome!
+
+
+## Acknowledgement
+This work and code is inspired by [Robust Change Captioning](https://github.com/Seth-Park/RobustChangeCaptioning). Thanks for their solid work!
