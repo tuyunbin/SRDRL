@@ -107,3 +107,7 @@ python evaluate.py --results_dir ./experiments/dynamic_SRDRL/test_output/caption
 ```
 The results are saved in `./experiments/dynamic_SRDRL/test_output/captions/eval_results.txt`
 
+## Contact
+My email is tuyunbin1995@foxmail.com
+
+Any discussions and suggestions are welcome!
