@@ -109,23 +109,12 @@ The results are saved in `./experiments/dynamic_SRDRL/test_output/captions/eval_
 
 If you find this helps your research, please consider citing:
 ```
-@inproceedings{tu-etal-2021-semantic,
-    title = "Semantic Relation-aware Difference Representation Learning for Change Captioning",
-    author = "Tu, Yunbin  and
-      Yao, Tingting  and
-      Li, Liang  and
-      Lou, Jiedong  and
-      Gao, Shengxiang  and
-      Yu, Zhengtao  and
-      Yan, Chenggang",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
-    month = aug,
-    year = "2021",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.findings-acl.6",
-    doi = "10.18653/v1/2021.findings-acl.6",
-    pages = "63--73",
+@inproceedings{tu2021semantic,
+  title={Semantic Relation-aware Difference Representation Learning for Change Captioning},
+  author={Tu, Yunbin and Yao, Tingting and Li, Liang and Lou, Jiedong and Gao, Shengxiang and Yu, Zhengtao and Yan, Chenggang},
+  booktitle={Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},
+  pages={63--73},
+  year={2021}
 }
 ```
 
