@@ -16,7 +16,7 @@ Tu, Yunbin, et al. ["Semantic Relation-aware Difference Representation Learning 
 
 4. Install requirements (pip install -r requirements.txt)
 
-5. [Clone COCO caption eval tools with Python 3.](https://gitee.com/tuyunbin/coco-caption_python3.git)
+5. [Clone COCO caption eval tools with Python 3.](https://github.com/mtanti/coco-caption)
 
 ## Data
 
