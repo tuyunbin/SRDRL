@@ -80,7 +80,7 @@ np.random.seed(1111)
 torch.manual_seed(1111)
 
 # Create model
-change_detector = ChangeDetectorDoubleAttDyn(cfg)
+change_detector = ChangeDetector(cfg)
 change_detector.to(device)
 
 speaker = DynamicSpeaker(cfg)
